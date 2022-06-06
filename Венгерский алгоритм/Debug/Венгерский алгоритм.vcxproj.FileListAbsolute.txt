@@ -1,0 +1,4 @@
+C:\Users\danek\Desktop\Венгерский алгоритм\Debug\Венгерский алгоритм.exe
+C:\Users\danek\Desktop\Венгерский алгоритм\Debug\Венгерский алгоритм.pdb
+C:\Users\danek\Desktop\Прожэкты\Полезное\Венгерский алгоритм\Debug\Венгерский алгоритм.exe
+C:\Users\danek\Desktop\Прожэкты\Полезное\Венгерский алгоритм\Debug\Венгерский алгоритм.pdb
